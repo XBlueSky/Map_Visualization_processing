@@ -24,7 +24,7 @@
 - #### Command
 
     ```console
-    sh merge.sh
+        sh merge.sh
     ```
     
 - #### Description
@@ -49,7 +49,7 @@
 - #### Command
 
     ```console
-    sh split.sh
+        sh split.sh
     ```
     
 - #### Description
@@ -73,7 +73,7 @@
 - #### Command
 
     ```console
-    sh mongoImport.sh  | sh personImport.sh
+        sh mongoImport.sh  | sh personImport.sh
     ```
     
 - #### Description
